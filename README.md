@@ -5,11 +5,11 @@
 
 My name is Steven and in 2020 I graduated from my bachelors degree in computer science at the Rotterdam university (Hogeschool Rotterdam). 
 At the moment I am working at Hoppinger, buidling websites with C#(ASP.NET), React, Typescript and headless CMS's (Wordpress, Sharepoint and Drupal). 
-I am always find it a challenge to build a website on a budget, look at my portfolio website for instance. It is hosted for free on Github pages, with help of Gatsby. The content is fully managed from a GitHub repository. To read more about me find the website [here](https://stevenkoerts.nl). 
+I always find it a challenge to build a website on a budget, look at my portfolio website for instance. It is hosted for free on Github pages, with help of Gatsby and the content is fully managed from a GitHub repository. To read more about me find my website [here](https://stevenkoerts.nl). 
 
 ## Current projects 
 
-Right now I am trying to automate the proces of building a database managment system. The project is called CodeGenPHP. It is a code generator written in Typescript, wich should output a fully functional website with an admin panel where you can manage the tables. The input specified will be an entity relational model. 
+Right now I am trying to automate the proces of building a database managment system. The project is called CodeGenPHP. It is a code generator written in Typescript, wich should output a fully functional website with an admin panel where you can manage the data. The input specified will be an entity relational model. Check out the repository of CodeGenPHP to see the progress of the project. 
 
 <!--
 **Steven24K/Steven24K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
