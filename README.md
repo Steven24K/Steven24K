@@ -10,7 +10,7 @@ To read more about me find my website [here](https://stevenkoerts.nl). This webs
 - 💬 If you need help with coding or to setup a new project I'm happy to help
 - 📫 How to reach me: s.koerts2@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Testing does verify the absence of bug, not the presence
+- ⚡ Fun fact: Testing does verify the absence of bugs, not the presence
 - 🎵 Favorite music: I beleive Tupac and Johnny Cash are both legends
 
 <!--
